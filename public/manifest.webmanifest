@@ -1,0 +1,34 @@
+{
+  "name": "Amplificador y Grabador de Audio en Vivo",
+  "short_name": "AudioLive",
+  "description": "Amplificador de micrófono de baja latencia con monitoreo en tiempo real para auriculares, efectos y grabación simultánea.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e0e0d",
+  "theme_color": "#0e0e0d",
+  "lang": "es",
+  "scope": "/",
+  "id": "/",
+  "orientation": "portrait-primary",
+  "categories": ["utilities", "music", "productivity"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

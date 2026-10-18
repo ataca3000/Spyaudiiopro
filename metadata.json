@@ -1,0 +1,6 @@
+{
+  "name": "Amplificador y Grabador de Audio en Vivo",
+  "description": "Amplificador de micrófono de baja latencia con monitoreo en tiempo real para auriculares, grabación simultánea y enrutamiento de audio mono/dual.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
